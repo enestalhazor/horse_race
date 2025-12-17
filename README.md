@@ -3,7 +3,11 @@
 ## Project Overview
 
 The game simulates a race using random movement and allows the player to bet money on a horse.
-The race is visually displayed in the terminal using text animation.
+
+---
+
+# Horse Race on terminal
+![Horse Race](horserace.jpeg)
 
 ---
 
