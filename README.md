@@ -1,7 +1,5 @@
 # Horse Race
 
-## Project Overview
-
 The game simulates a race using random movement and allows the player to bet money on a horse.
 
 ---
